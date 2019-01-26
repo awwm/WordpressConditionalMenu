@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: AWWM Conditional Menu
-Plugin URI:  https://github.com/simonrcodrington/Introduction-to-WordPress-Plugins---Location-Plugin
+Plugin URI:  https://github.com/awwm
 Description: Extend menu functionality at Ascend - Premium wordpress theme
 Version:     1.0.0
 Author:      Abdul Wahab
